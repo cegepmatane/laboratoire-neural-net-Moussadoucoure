@@ -11,7 +11,7 @@ Reconnaissance de texte : https://colab.research.google.com/github/keras-team/ke
 ReCapp de CDRIN  
 Votre choix de CNN approuvé par le professeur  
 
-Votre colab public : 
+Votre colab public : https://colab.research.google.com/drive/10DwnqoJBY3v2YXsfCjuxI2_2NDIvvsOQ
 
 **Dessin de blocs**
 
